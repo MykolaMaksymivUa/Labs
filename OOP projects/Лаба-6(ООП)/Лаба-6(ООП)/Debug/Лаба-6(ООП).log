@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\projects\лаба-6(ооп)\лаба-6(ооп)\source.cpp(92): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Лаба-6(ООП).vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Лаба-6(ООП)\Debug\Лаба-6(ООП).exe
+  Лаба-6(ООП).vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Лаба-6(ООП)\Debug\Лаба-6(ООП).pdb (Full PDB)

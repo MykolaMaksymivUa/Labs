@@ -1,0 +1,18 @@
+﻿  Source.cpp
+  GasStation.cpp
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.h(30): error C2086: int P::CGasStation::PP1: переопределение
+  c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.h(29): note:  см. объявление "P::CGasStation::PP1"
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.h(31): error C2086: int P::CGasStation::PP1: переопределение
+  c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.h(29): note:  см. объявление "P::CGasStation::PP1"
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.h(32): error C2086: int P::CGasStation::PP1: переопределение
+  c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.h(29): note:  см. объявление "P::CGasStation::PP1"
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(97): error C2065: PP2: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(103): error C2065: PP2: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(122): error C2065: PP3: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(128): error C2065: PP3: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(135): error C2065: PP3: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(146): error C2065: PP4: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(152): error C2065: PP4: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(159): error C2065: PP4: необъявленный идентификатор
+c:\users\user\documents\visual studio 2015\projects\лаба-5(ооп)\лаба-5(ооп)\gasstation.cpp(164): error C2809: "operator +" не имеет формальных параметров
+  Создание кода...

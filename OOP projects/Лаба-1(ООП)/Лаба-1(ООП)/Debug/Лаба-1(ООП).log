@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\projects\лаба-1(ооп)\лаба-1(ооп)\source.cpp(39): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+c:\users\user\documents\visual studio 2015\projects\лаба-1(ооп)\лаба-1(ооп)\source.cpp(39): warning C4305: инициализация: усечение из "double" к "float"
+  Лаба-1(ООП).vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Лаба-1(ООП)\Debug\Лаба-1(ООП).exe
+  Лаба-1(ООП).vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Лаба-1(ООП)\Debug\Лаба-1(ООП).pdb (Full PDB)

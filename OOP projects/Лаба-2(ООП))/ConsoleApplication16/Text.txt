@@ -1,0 +1,3 @@
+Your HDD:SI
+Your Extent:1000
+Occupied space in bytes:60129542144000
